@@ -1,7 +1,9 @@
 # SkyFF_Optimization
 A tool to help make decisions for Sky Fantasy Football
 
-Generates player expected points and transfer plan. Use of other EV or xMin sources is also encouraged
+Generates player expected points and transfer plan
+
+Modifying player EV and xMins or using other sources is encouraged
 
 ## Setting up
 - Install python
