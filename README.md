@@ -4,6 +4,7 @@ A tool to help make decisions for Sky Fantasy Football
 ## Setting up
 - Install python
 - Add CBC to environment path (e.g. https://www.youtube.com/watch?v=DFXCXoR6Dvw&t=1642s)
+- Clone the repository to your machine
 - Install all packages in the Imports section of the notebook
 
 ## Running the solver
