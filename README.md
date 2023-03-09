@@ -13,7 +13,7 @@ A tool to help make decisions for Sky Fantasy Football
 - Generate optimal solution using solve_sky_mp function
 
 ### Future plans
-- Add a simulation with noise function to solver
+- Add a more context to the noise function
 - Add a function to run the solver with multiple possible fixture permutations
 - Perform experiments to get a better idea of what parameters and settings are best for the solver
 - Refine player and team model
