@@ -1,9 +1,14 @@
 # SkyFF_Optimization
 A tool to help make decisions for Sky Fantasy Football
 
+Generates player expected points and transfer plan
+
+Modifying player EV and xMins or using other sources is encouraged
+
 ## Setting up
 - Install python
 - Add CBC to environment path (e.g. https://www.youtube.com/watch?v=DFXCXoR6Dvw&t=1642s)
+- Clone this repository to your machine
 - Install all packages in the Imports section of the notebook
 
 ## Running the solver
