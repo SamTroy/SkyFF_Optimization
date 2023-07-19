@@ -18,9 +18,8 @@ Modifying player EV and xMins or using other sources to reflect your own judgmen
 - Generate optimal solution using solve_sky_mp function
 
 ### Future plans
-- Add a more context to the noise function
+- Periodically update player and team prior data
 - Add a function to run the solver with multiple possible fixture permutations
 - Perform experiments to get a better idea of what parameters and settings are best for the solver
 - Refine player and team model
-- Maintain player and team model, and refresh their data with each new set of matches
 - Add a user interface to the solver to streamline the process
