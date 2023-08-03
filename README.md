@@ -12,7 +12,7 @@ Modifying player EV and xMins or using other sources to reflect your own judgmen
 - Install all packages in the Imports section of the notebook
 
 ## Running the solver
-- Download FPL Review projections, and save the file in data folder as fplreview.csv (alternatively, produce your own set of expected minutes)
+- Download FPL Review projections, and save the file in data folder as fplreview.csv (alternatively produce your own set of expected minutes, or omit this step to use defaults)
 - Run import and function definition cells
 - Generate model output using generate_model_output function
 - Generate optimal solution using solve_sky_mp function
