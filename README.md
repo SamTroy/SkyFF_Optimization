@@ -1,3 +1,5 @@
+NOTE: With Sky Fantasy Football discontinued for the 24/25 season, development on this tool will cease and I will begin work for other fantasy games for the upcoming season
+
 # SkyFF_Optimization
 A tool to help make decisions for Sky Fantasy Football
 
